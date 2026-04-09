@@ -1,6 +1,17 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning about OpenGL and implementing it using C++ for 3D graphical rendering. 
+# 🌱
+I’m currently mastering...
+-  OpenGL and C++ for texture mapping and integrating 2D images into 3D environments.
+-  GitHub version control and SecDevOps practices for streamlined development workflows.
+-  JUnit testing with Eclipse to build robust, stable apps through automated testing.
+
+# 🔭
+I’m currently working on...
+- Building python automation scripts for system monitoring and research testing workflows.
+- Researching and implementing secure coding practices through static analysis and vulnerability assessment techniques.
+
+
 
 <!--
 **JMG3000/JMG3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
