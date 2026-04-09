@@ -1,5 +1,9 @@
 ## Hey yo! I'm Jake. 👋
 
+Do you want to save the world with me?
+
+8 LOC and counting!
+
 # 🌱
 I’m currently mastering...
 -  OpenGL and C++ for texture mapping and integrating 2D images into 3D environments.
