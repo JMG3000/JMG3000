@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey yo! I'm Jake. 👋
 
 # 🌱
 I’m currently mastering...
