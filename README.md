@@ -9,11 +9,33 @@ I’m currently mastering...
 -  OpenGL and C++ for texture mapping and integrating 2D images into 3D environments.
 -  GitHub version control and SecDevOps practices for streamlined development workflows.
 -  JUnit testing with Eclipse to build robust, stable apps through automated testing.
+-  Python automation scripts for system monitoring and research testing workflows.
+-  Secure coding practices through static analysis and vulnerability assessment techniques.
+   
 
 # 🔭
-I’m currently working on...
-- Building python automation scripts for system monitoring and research testing workflows.
-- Researching and implementing secure coding practices through static analysis and vulnerability assessment techniques.
+I’m currently researching...
+-  Embedded systems architecture.
+
+# 👯v
+I'm currently engaging with...
+-  MITRE.org eCTF 2026
+-  Trace Labs GlobalSearchParty.org
+-  GitHub Skills
+-  Google Skills
+-  National Cyber League
+-  Coursera courses
+
+# 🤔
+I'm focused on...
+-  Building with a security first mindset.
+-  Getting my CompTIA Network + certification.
+
+# 😄
+-  I'm currently playing with...
+-  Google Skills Aracde
+-  HackerDNA.com
+-  NCL Gymnasium
 
 
 
