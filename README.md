@@ -16,20 +16,26 @@ I’m currently mastering...
 # 🔭
 I’m currently researching...
 -  Embedded systems architecture.
+-  Telemetry on different
 
-# 👯v
-I'm currently engaging with...
+# 
+I'm currently collaberating in...
 -  MITRE.org eCTF 2026
 -  Trace Labs GlobalSearchParty.org
+-  National Cyber League
+  
+# 👯
+I'm currently engaging with...
+
 -  GitHub Skills
 -  Google Skills
--  National Cyber League
 -  Coursera courses
 
 # 🤔
 I'm focused on...
 -  Building with a security first mindset.
 -  Getting my CompTIA Network + certification.
+-  CTF's
 
 # 😄
 -  I'm currently playing with...
