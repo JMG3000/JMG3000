@@ -11,6 +11,7 @@ I’m currently mastering...
 -  JUnit testing with Eclipse to build robust, stable apps through automated testing.
 -  Python automation scripts for system monitoring and research testing workflows.
 -  Secure coding practices through static analysis and vulnerability assessment techniques.
+-  Designing and deploying custom full-stack agentic workflows to build, test, and deploy apps and services.
    
 
 # 🔭
