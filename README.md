@@ -6,7 +6,6 @@ Do you want to save the world with me?
 
 # 🌱
 I’m currently mastering...
--  OpenGL and C++ for texture mapping and integrating 2D images into 3D environments.
 -  GitHub version control and SecDevOps practices for streamlined development workflows.
 -  JUnit testing with Eclipse to build robust, stable apps through automated testing.
 -  Python automation scripts for system monitoring and research testing workflows.
@@ -15,30 +14,33 @@ I’m currently mastering...
    
 # 🔭
 I’m currently researching...
--  Embedded systems architecture.
+-  design and processing of various embedded systems and their specific architectures.
 -  Telemetry and how it is used on different platforms.
+-  OpenGL and C++ for texture mapping and integrating 2D images into 3D environments.
 
 # 👯
-I'm currently collaberating in...
+I'm currently collaberating in the...
 -  MITRE.org eCTF 2026
 -  Trace Labs GlobalSearchParty.org
 -  National Cyber League
+-  codingUnited Coding Collective
+
   
 # 🤘 
 I'm currently engaging with...
 -  GitHub Skills
 -  Google Skills
 -  Coursera courses
+-  Southern New Hampshire University
 -  Moske Educational Fund
--  codingUnited Coding Collective
 -  Live Better U
 -  Guild 
 
 # 🤔
 I'm focused on...
 -  Building with a security first mindset.
--  Getting my CompTIA Network + certification.
--  CTF's
+-  Getting my CompTIA Network + and Security + certifications before 2027.
+-  participating in more CTF's!!!
 
 # 😄
 -  I'm currently playing with...
