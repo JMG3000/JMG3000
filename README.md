@@ -13,23 +13,26 @@ I’m currently mastering...
 -  Secure coding practices through static analysis and vulnerability assessment techniques.
 -  Designing and deploying custom full-stack agentic workflows to build, test, and deploy apps and services.
    
-
 # 🔭
 I’m currently researching...
 -  Embedded systems architecture.
 -  Telemetry and how it is used on different platforms.
 
-# 
+# 👯
 I'm currently collaberating in...
 -  MITRE.org eCTF 2026
 -  Trace Labs GlobalSearchParty.org
 -  National Cyber League
   
-# 👯
+# 🤘 
 I'm currently engaging with...
 -  GitHub Skills
 -  Google Skills
 -  Coursera courses
+-  Moske Educational Fund
+-  codingUnited Coding Collective
+-  Live Better U
+-  Guild 
 
 # 🤔
 I'm focused on...
@@ -42,9 +45,6 @@ I'm focused on...
 -  Google Skills Aracde
 -  HackerDNA.com
 -  NCL Gymnasium
-
-
-
 <!--
 **JMG3000/JMG3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
