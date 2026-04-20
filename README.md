@@ -27,7 +27,6 @@ I'm currently collaberating in...
   
 # 👯
 I'm currently engaging with...
-
 -  GitHub Skills
 -  Google Skills
 -  Coursera courses
