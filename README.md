@@ -25,7 +25,6 @@ I'm currently collaberating in the...
 -  National Cyber League
 -  codingUnited Coding Collective
 
-  
 # 🤘 
 I'm currently engaging with...
 -  GitHub Skills
