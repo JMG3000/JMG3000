@@ -6,6 +6,7 @@ Do you want to save the world with me?
 
 # 🌱
 I’m currently mastering...
+-  Fully autonomous Agentic coding workflows
 -  GitHub version control and SecDevOps practices for streamlined development workflows.
 -  JUnit testing with Eclipse to build robust, stable apps through automated testing.
 -  Python automation scripts for system monitoring and research testing workflows.
@@ -14,12 +15,14 @@ I’m currently mastering...
    
 # 🔭
 I’m currently researching...
+-  Custom Agent Harnesses 
 -  design and processing of various embedded systems and their specific architectures.
 -  Telemetry and how it is used on different platforms.
 -  OpenGL and C++ for texture mapping and integrating 2D images into 3D environments.
 
 # 👯
 I'm currently collaberating in the...
+-  UHD CyberHawks CTF Nationals
 -  MITRE.org eCTF 2026
 -  Trace Labs GlobalSearchParty.org
 -  National Cyber League
